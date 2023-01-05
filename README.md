@@ -1,4 +1,4 @@
-# <p align="center">Natural Language Understanding - Sentiment Analysis Project</p> 
+# <p align="center">Natural Language Understanding - Sentiment Analysis - Subjectivity and Polarity Project</p> 
 
 Sentiment analysis (SA), also known as opinion mining, is a branch of Natural Language Processing (NLP) which addresses the identification, extraction and study of subjective information encompassed in documents, texts and reviews. This type of application is becoming increasingly popular, since it represents a powerful tool that both, individuals and companies, can use to get insights about the text under analysis.
 
