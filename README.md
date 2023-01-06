@@ -4,4 +4,4 @@ Sentiment analysis (SA), also known as opinion mining, is a branch of Natural La
 
 This repository is a student project developed by Kevin Depedri for the "Natural Language Understanding" course of the Master in Artificial Intelligent Systems at the University of Trento, a.y. 2022-2023.
 
-All the code contained in the ``NLU_SA_Project - Depedri Kevin.ipynb`` file has been written and executed as a Python Notebook in the Pycharm IDE. All plots and tables computed in the notebook are shown correctly on that platform. If problem arises in the visualization of this type of attachments please evaluate the possibility to open it using Pycharm or a similar software.
+All the code contained in the ``NLU_SA_Project_Depedri_Kevin.ipynb`` file has been written and executed as a Python Notebook in the Pycharm IDE. All plots and tables computed in the notebook are shown correctly on that platform. If problem arises in the visualization of this type of attachments please evaluate the possibility to open it using Pycharm or a similar software.
